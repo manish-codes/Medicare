@@ -1,0 +1,67 @@
+.searchbox
+{
+    padding: 5px 5px!important;
+    margin: 10px 7px!important;
+    height: 43px;
+    width: 90%;
+    user-select: auto;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 17px;
+}
+#seccontainer
+{
+    width: 91%;
+    display: none;
+}
+#precaution
+{
+    display: none;
+}
+.btn
+{
+    background-color: rgb(31, 107, 177);
+    color:white;
+    transition: all 0.1s ease-out;
+}
+.btn:hover
+{
+    transform: scale(1.1);
+    color: white
+}
+.sec-output-container
+{
+    height: 98px;
+    width: 91%;
+    margin: 9px 5px;
+    border: 0.4px solid rgb(191, 191, 191);
+    border-radius: 18px;
+    background-color: #fff;
+    display: block;
+    text-align: center;
+    resize: none;
+    font-size: 16px;
+    
+}
+#disease-output-container
+{
+    height: 48px; 
+}
+.FirstBox
+{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.left
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    height: 20rem;
+    justify-content: center;
+}
+.right img
+{
+    height: 20rem;
+}

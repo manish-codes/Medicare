@@ -1,0 +1,28 @@
+.sec1
+{
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+.box-main
+{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -35px;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #EBF0F6;
+}
+.first-half img
+{
+  height: 200px;
+  width: 200px;
+}
+.second-half h1
+{
+  font-size: 4.5rem;
+  color: #003768;
+}
+.heading1
+{
+  color: rgb(107, 107, 107);
+}

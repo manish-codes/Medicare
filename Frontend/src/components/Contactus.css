@@ -1,0 +1,88 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #efefef;
+    line-height: 1.9;
+    color: black;
+    display: block;
+    font-size: 20px;
+    height: 110vh;
+}
+/* h1{
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    left: 38%;
+    top: 0;
+} */
+.line{
+    width: 315px;
+}
+.shady
+{
+    padding: 10px 10px;
+    margin: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.container2 img
+{
+    height: 40rem;
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    max-height: 90%;
+    width: 50%;
+    margin: 0px;
+    padding: 0px;
+    /* box-shadow: 0px -1px 15px 2px rgb(0,0,0,0.2)  */
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.btn1{
+    border: none;
+    background-color: #4d80e4;
+    color: white;
+    font-size: 15px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    border-radius: 30px ;
+    height: 32px;
+    width: 174px;
+}
+.btn-class1{
+    display: flex;
+    justify-content: center;
+}
+.form-control{
+    border: none;
+    color: #b3b3b3;
+    width: 98%;
+    height: 25px;
+    font-size: 15px;
+}
+.col-form-label{
+    color: #b3b3b3;
+}
+.row1{
+    display: grid;
+    grid-template-columns:50% 50% ;
+}
+.name-class{
+    margin: 10px;
+}
+.email-class{
+    margin: 10px;
+}
+.subject-class{
+    margin: 10px;
+    padding: 12px 0px;
+}
+.message-class{
+    margin: 10px;
+}
+

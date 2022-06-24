@@ -1,0 +1,20 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31, 107, 177);
+    text-align: center;
+    height: 10vh;
+    color: white;
+}
+
+.foot1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      background-color: rgb(31, 107, 177);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+    color: white;
+}

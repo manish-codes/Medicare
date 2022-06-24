@@ -1,0 +1,32 @@
+.sec4{
+    display: flex;
+    margin: 22vh auto;
+    width: 90vw;
+    background-color: #EBF0F6;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.leftsec4{
+    display: flex;
+    width: 50vw;
+}
+
+.sec4head{
+    font-family: 'Expletus Sans', cursive;
+    font-size: 40px;
+    color: #003768;
+    margin-bottom: 15px;
+}
+
+.rightsec4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+}
+
+.rightsec4 p{
+    font-family: 'Baloo Tamma 2', cursive;
+}
